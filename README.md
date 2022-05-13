@@ -62,10 +62,10 @@ Maven in
 </dependencies>
 
 <repositories>
-<repository>
-    <id>SMPCP-Maven</id>
-    <url>https://raw.github.com/shine813/SMPCP-Maven/mvn-repo/</url>
-</repository>
+    <repository>
+        <id>SMPCP-Maven</id>
+        <url>https://raw.github.com/shine813/SMPCP-Maven/mvn-repo/</url>
+    </repository>
 </repositories>
 ```
 
